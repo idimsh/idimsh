@@ -7,7 +7,7 @@ A funny util that helps mocking calls to resources calls in unit tests.
 A *really heavy* docker image with multiple PHP versions and with both Nginx and Apache2 to serve PHP. A working idea for Nginx serving static files and Apache serves the PHP files via mod_php which is for me preferred over PHP-FPM.  
 It needs refinement and reduction of the size.
 
-#### 💬 beside that, you can ask me about PHP topics, get in touch via GitHub ...
+#### 💬 beside that, you can ask me about PHP topics, get in touch via GitHub ... thanks and hope to see you in code :wink:  
 
 <!--
 **idimsh/idimsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
